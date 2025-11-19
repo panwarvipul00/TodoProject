@@ -2,11 +2,11 @@ This is a simple full-stack Todo application built as part of an assignment.
 The main idea was to create a basic login system and allow users to manage their own todo list. I tried to keep the project clean, minimal, and easy to understand.
 # Tech Stack Used
 # Frontend-
--React(TypeScript)
--Vite
--Tailwind CSS
--Zustand(state management)
--React router
+#React(TypeScript)
+#Vite
+#Tailwind CSS
+#Zustand(state management)
+#React router
 # Backend-
 -Node.js + Express (TypeScript)
 -MongoDB Atlas
